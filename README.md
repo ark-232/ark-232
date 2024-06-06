@@ -38,12 +38,11 @@ I am passionate about leveraging technology to solve complex problems. With expe
 
 ### 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ark-232&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats-tau-nine-47.vercel.app/api/top-langs/?username=ark-232&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌟 GitHub Stats
 
-![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ark-232&show_icons=true&theme=radical)
+![Enrique's GitHub Stats](https://github-readme-stats-tau-nine-47.vercel.app/api?username=ark-232&show_icons=true&theme=radical)
 
 ### 🏆 GitHub Profile Trophy
 
@@ -52,6 +51,10 @@ I am passionate about leveraging technology to solve complex problems. With expe
 ### 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ark-232&theme=radical)
+
+
+
+
 
 
 
