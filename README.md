@@ -34,4 +34,35 @@ I am passionate about leveraging technology to solve complex problems. With expe
 - **Wiring and Crimping**
 - **Managing Physical Systems**
 
+---
+
+### 🌟 GitHub Stats
+
+![Enrique's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eaoti&show_icons=true&theme=radical)
+
+### 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eaoti&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=eaoti&theme=radical)
+
+### 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eaoti&layout=compact&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+  <a href="https://www.rust-lang.org" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a>
+  <a href="https://www.javascript.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com" target="_blank"><img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
+</p>
+
 
